@@ -4,7 +4,7 @@ export const SITE_CONFIG: SiteConfig = {
   title: "Jay Halani — Android and Flutter Developer",
   author: "Jay Halani",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+    "Senior Android and Flutter Developer with 7+ years of experience building high-performance, cross-platform apps with clean architecture and responsive design.",
   lang: "en",
   siteLogo: "/jayhalani-small.png",
   navLinks: [
